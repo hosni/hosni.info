@@ -21,7 +21,7 @@ fingerprintAlgorithm = "sha256"
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
-  showTitle = true
+  showTitle = false
 
 [footer]
   showCopyright = true
@@ -41,7 +41,7 @@ fingerprintAlgorithm = "sha256"
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  editURL = "https://github.com/hosni/hosni.info/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
